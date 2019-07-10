@@ -25,4 +25,3 @@ else:
     print(datetime.datetime.now())
     print("we are in the evening", datetime.datetime.now())"""
 print("current time and date is ", datetime.datetime.now())
-
